@@ -1,0 +1,5 @@
+IP: 158.160.73.139;
+name_taski: https://zalupki.ddns.net/;
+name_kittygram: https://prakticumdubanenko.mooo.com/;
+login: admin;
+password: admin;
